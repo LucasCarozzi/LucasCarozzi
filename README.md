@@ -37,4 +37,4 @@
 
 ## 🌐 Conéctate conmigo
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-carozzi/)
-[![Correo](https://img.shields.io/badge/-lucas.carozzi@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.carozzi@example.com)
+[![Correo](https://img.shields.io/badge/-lucas.carozzi@example.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:lucas.carozzi24@gmail.com)
