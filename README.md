@@ -13,9 +13,7 @@
 - **Frameworks y bibliotecas**: Django, Flask, React, Next.js.
   
 - **Bases de datos**: PostgreSQL, MySQL, SQLite, MongoDB, FireBase.
-  
-- **Infraestructura y DevOps**: Git, Docker.
-  
+    
 - **Herramientas y utilidades**: Postman, VS Code, GitHub.
   
 - **Metodologías y gestión de proyectos**: Agile (Scrum, Kanban), Clean Code, diseño orientado a objetos (OOP).
