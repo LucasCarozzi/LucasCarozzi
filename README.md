@@ -1,30 +1,29 @@
-# 👋 ¡Hola, soy Lucas Carozzi!
+# 👋 ¡Hola! Soy Lucas Carozzi
 
-🌟 Profesional en desarrollo de software con experiencia en backend, frontend y bases de datos.  
+🎓 **Ingeniero en Informática en formación** y **Analista Programador**, con un especial interés en **Ingeniería de Datos, Análisis de Datos e Inteligencia Artificial**.
 
-🎓 **Analista Programador** egresado de INACAP, actualmente cursando **Ingeniería en Informática**.  
+📊 Actualmente estoy construyendo un portafolio de proyectos enfocados en **Python, SQL, Pandas, Machine Learning y tecnologías Cloud**, aplicando buenas prácticas de desarrollo y análisis de datos.
 
-🎯 Apasionado por resolver problemas complejos mediante soluciones tecnológicas innovadoras.
+## 🛠️ Tecnologías
 
-## 🛠️ Habilidades técnicas
+## 🛠️ Tecnologías
 
-- **Lenguajes de programación**: Python, JavaScript, SQL, Java.
-  
-- **Frameworks y bibliotecas**: Django, Flask, React, Next.js.
-  
-- **Bases de datos**: PostgreSQL, MySQL, SQLite, MongoDB, FireBase.
-    
-- **Herramientas y utilidades**: Postman, VS Code, GitHub.
-  
-- **Metodologías y gestión de proyectos**: Agile (Scrum, Kanban), Clean Code, diseño orientado a objetos (OOP).
+* **Lenguajes:** Python, SQL y JavaScript.
+* **Datos:** Ingeniería de Datos, Análisis de Datos, ETL y Data Warehouse.
+* **Bases de datos:** SQL y NoSQL.
+* **Control de versiones:** Git y GitHub.
+* **Herramientas:** Excel Avanzado, Jupyter Notebook y Power BI.
 
-## 🚀 Sobre mí
 
-- 💡 Proactivo y orientado a resultados, con un enfoque en aprendizaje continuo.
-  
-- 🌱 Actualmente profundizo mis conocimientos en **ingeniería de software** y **tecnologías en la nube**.
-   
-- 💻 Interesado en proyectos relacionados con **automatización**, **análisis de datos** y **desarrollo full-stack**.
+## 🚀 Actualmente
+
+* 📚 Profundizando en **Data Engineering**, **Machine Learning** y **Cloud Computing**.
+* 🏗️ Desarrollando proyectos de análisis de datos, ETL y automatización para fortalecer mi portafolio profesional.
+* 🌱 Aprendiendo continuamente nuevas tecnologías relacionadas con el ecosistema de datos.
+
+## 🎯 Objetivo Profesional
+
+Mi objetivo es desarrollarme como **Data Engineer**, participando en proyectos donde pueda diseñar, construir y optimizar soluciones de datos que apoyen la toma de decisiones mediante tecnologías modernas y escalables.
 
 
 ## 📊 Estadísticas de mi GitHub:
