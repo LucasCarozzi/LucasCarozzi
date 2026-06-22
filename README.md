@@ -6,8 +6,6 @@
 
 ## 🛠️ Tecnologías
 
-## 🛠️ Tecnologías
-
 * **Lenguajes:** Python, SQL y JavaScript.
 * **Datos:** Ingeniería de Datos, Análisis de Datos, ETL y Data Warehouse.
 * **Bases de datos:** SQL y NoSQL.
